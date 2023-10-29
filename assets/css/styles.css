@@ -87,3 +87,93 @@ body {
     margin-top: 8%;
 }
 
+/* Estilos CSS para los titulos */
+.titulos {
+    text-align: center;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 5em;
+    font-style: italic;
+    font-style: oblique;
+
+}
+
+/* Estilos CSS para los titulos */
+.parrafos {
+    text-align: center;
+    font-family: 'Noto Serif JP', serif;
+    text-align: justify;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 2em;
+
+}
+
+/* Estilos CSS para los logos */
+.logos {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 25em;
+    width: 50em;
+    
+}
+
+/* Estilos CSS para las imagenes */
+.img1 {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 60em;
+    width: 100em;
+}
+
+/* Estilos CSS para los separadores */
+.sep {
+    width: 100%;
+    height: 55%;
+
+}
+
+/* Estilos CSS para el texto del pie de pagina 1 */
+.txt {
+    margin: 0;
+}
+
+/* Estilos CSS para el texto del pie de pagina 2 */
+.txt {
+    text-align: center;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 1.5em;
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+}
+
+/* Estilos CSS para la imagen del pie de pagina */
+.pp {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+/* Estilos CSS para el pie de pagina */
+.pie {
+    background-color: black;
+    display: block; 
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilos CSS para las redes en el pie de pagina */
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
